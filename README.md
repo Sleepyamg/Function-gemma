@@ -19,7 +19,7 @@ The default model is set in `model.py` as `DEFAULT_MODEL` (`gemma3:270m`). Chang
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd <repo-directory>
 python -m pip install -r requirements.txt
 ```
